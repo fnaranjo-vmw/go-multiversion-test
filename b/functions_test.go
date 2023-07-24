@@ -6,7 +6,7 @@ import (
 
 func TestDefaultFoo(t *testing.T) {
 	foo := DefaultFoo()
-	if foo.Data != 971 {
+	if foo.Data != 992 {
 		t.Fail()
 	}
 }

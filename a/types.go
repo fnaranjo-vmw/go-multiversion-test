@@ -1,5 +1,6 @@
 package a
 
 type Foo struct {
-	Data int
+	Data      int
+	OtherData string
 }

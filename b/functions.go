@@ -9,5 +9,5 @@ func NewFoo(data int) a.Foo {
 }
 
 func DefaultFoo() a.Foo {
-	return a.Foo{Data: 971}
+	return a.Foo{Data: 992}
 }
